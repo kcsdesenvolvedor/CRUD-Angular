@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+}
+
+.edit {
+  margin-right: 15px;
+}
+
+.edit>i {
+  color: #d9cd26;
+}
+
+.delete>i {
+  color: #e35e6b;
+}
+
+.table-bar {
+  background-color: #000000;
+}
+
+.white {
+  color: #fff;
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Televisão LG 60",
+      "price": "5500"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S20 ultra",
+      "price": 4500
+    },
+    {
+      "id": 3,
+      "name": "Maquina de Lavar Mondial",
+      "price": 2700
+    },
+    {
+      "id": 4,
+      "name": "Bola de Futebol",
+      "price": "120"
+    },
+    {
+      "name": "Produto de teste",
+      "price": 123.5,
+      "id": 5
+    },
+    {
+      "name": "testando",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "Teclado gamer",
+      "price": "2.20",
+      "id": 7
+    }
+  ]
+}
